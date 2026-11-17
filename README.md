@@ -1,2 +1,2 @@
 # Personal_Portfolio
-Personal Profile: https://personal-portfolio-1rltiw2qq-quree-kumaris-projects.vercel.app/
+Personal Profile: https://6afcb5--ac055c10-professional-personal-portfolio.netlify.app
